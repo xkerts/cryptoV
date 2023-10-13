@@ -18,9 +18,9 @@ export const Navbar = () => {
         <Typography.Title level={2} className="logo">
           <Link to="/">Cryptoverse</Link>
         </Typography.Title>
-        <Button>
+        {/* <Button>
           <MenuOutlined />
-        </Button>
+        </Button> */}
       </div>
 
       <Menu theme="dark">
